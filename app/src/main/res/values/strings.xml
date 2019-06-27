@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CHGraphEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="recent">View Recent</string>
+    <string name="info_option">Info option</string>
+    <string name="explode_option">Explode option</string>
+    <string name="officers">Officers</string>
+    <string name="companies">Companies</string>
+    <string name="search">Search</string>
+    <string name="title_node_info">Info about node</string>
+    <string name="help_message">
+        • Drag to pan around. \n• Tap node to get basic info. \n• Tap and hold node to get ownership info. \n\t- Info button for details on node. \n\t- Explode button to expand the node. \n
+    </string>
+    <string name="help_title">How to use the nodes</string>
+    <string name="selected_node">✓</string>
+    <string name="icon_txt">icon for company or officer</string>
+</resources>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jacob.chgraphex.RecentActivity">
+
+    <item android:title="Delete History"
+        android:id="@+id/action_clear_history">
+
+    </item>
+
+</menu>
