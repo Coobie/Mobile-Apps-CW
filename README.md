@@ -7,4 +7,6 @@ Specification can be seen in Mobile Apps Spec.pdf
 
 Screenshots of the app can be seen in Screenshots of app.pdf
 
+[APK is available](app/release/app-release.apk)
+
 Copyright Coobie and UWE 2019
